@@ -24,4 +24,4 @@ def create_app():
 # postgres://keshavsharma:8ouqic74GL1gRV6HFYzkfiyIgiVNdN8A@dpg-ckq1iehrfc9c73egiev0-a.oregon-postgres.render.com/cuma
 
 # include for routing should always at the end of file
-from app import routes
+# from app import routes
