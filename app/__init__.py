@@ -3,9 +3,6 @@ from flask_cors import CORS
 import psycopg2
 import os
 from sqlalchemy import create_engine
-from dotenv import load_dotenv
-
-load_dotenv()
 
 
 app = Flask(__name__)
